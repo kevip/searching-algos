@@ -1,0 +1,10 @@
+.chart-container {
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+}
+.bar {
+    width: 10px;
+    border: 2px solid black;
+    transition: all .5s;
+}
